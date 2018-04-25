@@ -1,0 +1,4 @@
+#Wed Apr 25 01:09:52 EDT 2018
+base.0=/Users/wchen/AndroidStudioProjects/Bluetooth/Application/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex
